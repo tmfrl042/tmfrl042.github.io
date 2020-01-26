@@ -15,7 +15,7 @@ theme_settings :
     experience :
       - start : 2020-01-02
         end : ~
-        experience : -
+        experience : ~
     skills : 
       - skill : SQL(Oracle)
         value : 30  # Percent value
