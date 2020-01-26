@@ -1,30 +1,30 @@
 # Site Settings
 baseurl: ""
-url : "https://naye0ng.github.io"
+url : "https://tmfrl042.github.io/"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : Seulki's Blog
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    username : Seulki Kim
+    description : Seulki Amanda Kim
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : 2020-01-02
+        end : ~
+        experience : -
     skills : 
-      - skill : HTML5 & CSS
-        value : 85  # Percent value
+      - skill : SQL(Oracle)
+        value : 30  # Percent value
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
-    linkedin:  # Full URL 
-    github: naye0ng
+    email: tmfrl042@naver.com # Full email address, e.g. "sample@google.com"
+    linkedin: https://www.linkedin.com/in/tmfrl042/  # Full URL 
+    github: https://github.com/tmfrl042
     gitlab: 
     bitbucket: 
     google_plus:
